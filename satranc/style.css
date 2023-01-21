@@ -1,0 +1,30 @@
+body{
+    background-color: #161512;
+}
+#box{
+    margin: auto;
+    width: 600px;
+    height: 600px;
+}
+
+.dark{
+    background-color: #868686;
+    width: 75px;
+    height: 75px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 75px;
+}
+
+.light{
+    background-color: #a7a7a7;
+    width: 75px;
+    height: 75px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 75px;
+}
